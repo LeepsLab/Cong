@@ -1,0 +1,3 @@
+"period","timeConstrained","paid","length","preLength","pointsPerSecond","percentChangePerSecond","payoffFunction","MAX","sender","counterpartPayoffFunction","MAX","sender","population","strategySelectionDisplayType","mixedStrategySelection","yourPayoff","mode","r","g","b","otherPayoff","mode","r","g","b","weight"
+1,"TRUE","TRUE",60,0,"FALSE",0.1,"ultimatum",100,"TRUE","ultimatum",100,"FALSE","paired","HeatmapBoth","TRUE","line","shaded",100,255,100,"line","solid",100,150,255,2
+2,"TRUE","TRUE",60,0,"FALSE",0.1,"ultimatum",100,"TRUE","ultimatum",100,"FALSE","paired","HeatmapBoth","TRUE","line","shaded",100,255,100,"line","solid",100,150,255,2

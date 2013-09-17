@@ -1,0 +1,2 @@
+"period","length","payoffFunction","name","min","max","selector"
+1,30,"matrix3x3","pf",0,100,"pure"

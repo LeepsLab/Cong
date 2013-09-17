@@ -1,0 +1,5 @@
+"period","paid","length","subperiods","percentChangePerSecond","groupSize","payoffFunction","source","min","max","strategies","params","mixed","selector","potential"
+1,"TRUE",60,0,"NaN",4,"script","RPS_Scripted.java",0,100,1,"Alpha=0.9,Beta=0.5,Gamma=0.1","TRUE","bubbles","TRUE"
+2,"TRUE",60,0,0.1,4,"script","RPS_Scripted.java",0,100,1,"Alpha=0.5","TRUE","bubbles","FALSE"
+3,"TRUE",300,100,"NaN",4,"script","RPS_Scripted.java",0,100,1,"Alpha=0.5","TRUE","bubbles","FALSE"
+4,"TRUE",60,4,"NaN",4,"script","RPS_Scripted.java",0,100,1,"Alpha=0.5","TRUE","bubbles","FALSE"

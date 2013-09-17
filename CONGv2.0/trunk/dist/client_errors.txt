@@ -1,0 +1,4 @@
+os.arch: x86
+adding C:\Users\Alex\Desktop\CONGv2.0\trunk\dist\lib\win-32-bit to class path
+adding C:\Users\Alex\Desktop\CONGv2.0\trunk\dist\lib\win-32-bit to class path
+Flushing updates: 0

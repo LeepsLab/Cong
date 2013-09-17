@@ -1,0 +1,3 @@
+"period","paid","length","subperiods","percentChangePerSecond","groupSize","payoffFunction","name","min","max","Aa","Ab","Ba","Bb","mixed","selector","matrixDisplay","showHeatmapLegend"
+1,"TRUE",60,1,"NaN",1,"matrix2x2","first",0,17,10,0,18,4,"TRUE","heatmap2d","HeatmapSingle",TRUE
+2,"TRUE",60,1,"NaN",1,"matrix2x2","first",0,17,10,0,18,4,"TRUE","heatmap2d","HeatmapSingle",TRUE

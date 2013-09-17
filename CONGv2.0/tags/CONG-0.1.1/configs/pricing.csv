@@ -1,0 +1,5 @@
+"period","paid","length","percentChangePerSecond","groupSize","xAxisTicks","grid","payoffFunction","name","mixed","selector","marginalCost"
+1,"TRUE","30","NaN",4,10,0.01,"pricing","pf","TRUE","strip",10
+2,"TRUE","30","NaN",4,20,0.01,"pricing","pf","TRUE","strip",10
+3,"TRUE","30","NaN",4,30,0.01,"pricing","pf","TRUE","strip",10
+4,"TRUE","30","NaN",4,5,0.01,"pricing","pf","TRUE","strip",10

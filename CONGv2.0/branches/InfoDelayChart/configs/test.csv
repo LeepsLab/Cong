@@ -1,0 +1,9 @@
+period,timeConstrained,paid,length,initialStrategy,pointsPerSecond,percentChangePerSecond,payoffFunction,AaStart,AaEnd,Ab,Ba,Bb,counterpartPayoffFunction,AaStart,AaEnd,Ab,Ba,Bb,population,twoStrategySelectionType,yourPayoff,mode,r,g,b,otherPayoff,mode,r,g,b,weight,heatmapColorLow,heatmapColorMid,heatmapColorHigh
+1,TRUE,TRUE,60,0,FALSE,0.1,homotopy,3,3,0,5,1,homotopy,3,3,0,5,1,paired,HeatmapBoth,line,shaded,100,255,100,line,solid,100,150,255,2,0xFF0000,0xFFFF00,0x00FF00
+2,TRUE,TRUE,60,0,FALSE,0.1,homotopy,3,3,0,5,1,homotopy,3,3,0,5,1,twoPopulation,HeatmapSingle,line,shaded,100,255,100,line,solid,100,150,255,2,0xFF0000,0xFFFF00,0x00FF00
+3,TRUE,TRUE,60,0.5,FALSE,0.1,homotopy,3,3,0,5,1,homotopy,3,3,0,5,1,twoPopulation,Matrix,line,shaded,100,255,100,line,solid,100,150,255,2,0xFF0000,0xFFFF00,0x00FF00
+4,TRUE,TRUE,60,0.5,FALSE,0.1,homotopy,3,3,0,5,1,homotopy,3,3,0,5,1,twoPopulation,Matrix,line,shaded,100,255,100,line,solid,100,150,255,2,0xFF0000,0xFFFF00,0x00FF00
+5,TRUE,TRUE,60,0.75,FALSE,0.1,homotopy,3,3,0,5,1,homotopy,3,3,0,5,1,twoPopulation,Matrix,line,shaded,100,255,100,line,solid,100,150,255,2,0xFF0000,0xFFFF00,0x00FF00
+6,TRUE,TRUE,60,0.75,FALSE,0.1,homotopy,3,3,0,5,1,homotopy,3,3,0,5,1,twoPopulation,Matrix,line,shaded,100,255,100,line,solid,100,150,255,2,0xFF0000,0xFFFF00,0x00FF00
+7,TRUE,TRUE,60,1,FALSE,0.1,homotopy,3,3,0,5,1,homotopy,3,3,0,5,1,twoPopulation,Matrix,line,shaded,100,255,100,line,solid,100,150,255,2,0xFF0000,0xFFFF00,0x00FF00
+8,TRUE,TRUE,60,1,FALSE,0.1,homotopy,3,3,0,5,1,homotopy,3,3,0,5,1,twoPopulation,Matrix,line,shaded,100,255,100,line,solid,100,150,255,2,0xFF0000,0xFFFF00,0x00FF00

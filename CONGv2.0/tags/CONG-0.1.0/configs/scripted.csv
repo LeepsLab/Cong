@@ -1,0 +1,3 @@
+"period","paid","length","subperiods","percentChangePerSecond","numGroups","payoffFunction","script","mixed","selector"
+1,"TRUE",60,0,0.1,1,"script","payoff_script.js","TRUE","strip"
+2,"TRUE",60,0,0.1,1,"script","payoff_script.js","TRUE","strip"

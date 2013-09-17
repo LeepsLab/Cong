@@ -1,0 +1,2 @@
+"period","paid","length","subperiods","percentChangePerSecond","groupSize","payoffFunction","name","min","max","Aa","Ab","Ba","Bb","isCounterpart","selector"
+1,"TRUE",60,6,"NaN",1,"matrix2x2","first",0,17,10,0,18,4,"TRUE","pure"

@@ -1,0 +1,11 @@
+"period","paid","indefiniteEnd","max","secondsToDisplay","percentToDisplay","percentChangePerSecond","subperiods","numGroups","excludeSelf","payoffFunction","Rr","Rp","Rs","Pr","Pp","Ps","Sr","Sp","Ss","min","max","updatesPerSecond","strategyUpdateMillis","selector"
+1,"TRUE","endUniform",120,20,0.75,0.5,0,1,"TRUE","matrix3x3",18,12,96,60,18,12,12,96,18,12,96,5,50,"simplex"
+2,"TRUE","endUniform",100,20,0.75,"NaN",4,1,"TRUE","matrix3x3",18,12,96,60,18,12,12,96,18,12,96,5,50,"simplex"
+3,"TRUE","endUniform",120,20,0.75,0.1,0,1,"TRUE","matrix3x3",18,12,96,60,18,12,12,96,18,12,96,5,50,"simplex"
+4,"TRUE","endUniform",120,20,0.75,0.1,0,1,"TRUE","matrix3x3",36,24,96,96,36,24,24,96,36,24,96,5,50,"simplex"
+5,"TRUE","endUniform",120,20,0.75,0.1,0,1,"TRUE","matrix3x3",60,0,72,72,60,36,0,72,60,0,72,5,50,"simplex"
+6,"TRUE","endUniform",50,20,0.75,1,10,1,"TRUE","matrix3x3",36,24,96,96,36,24,24,96,36,24,96,,,"simplex"
+7,"TRUE","endUniform",40,20,0.75,1,20,1,"TRUE","matrix3x3",60,0,72,72,60,36,0,72,60,0,72,,,"simplex"
+8,"TRUE","endUniform",30,20,0.75,1,30,1,"TRUE","matrix3x3",36,24,96,96,36,24,24,96,36,24,96,,,"simplex"
+9,"TRUE","endUniform",20,20,0.75,1,60,1,"TRUE","matrix3x3",60,0,72,72,60,36,0,72,60,0,72,,,"simplex"
+10,"TRUE","endUniform",100,20,0.75,1,0,1,"TRUE","matrix3x3",60,0,72,72,60,36,0,72,60,0,72,,,

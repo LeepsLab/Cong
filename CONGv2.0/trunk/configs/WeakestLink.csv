@@ -1,0 +1,4 @@
+"period","paid","length","subperiods","percentChangePerSecond","groupSize","payoffFunction","source","min","max","strategies","params","mixed","selector","potential","grid"
+1,"TRUE",300,0,"NaN",4,"script","WeakestLink.java",1,10,1,"Alpha=1.0","TRUE","bubbles","TRUE",0.1111111111
+2,"TRUE",300,0,"NaN",4,"script","WeakestLink.java",1,10,1,"Alpha=1.0","TRUE","bubbles","TRUE",0.1111111111
+3,"TRUE",300,0,"NaN",4,"script","WeakestLink.java",1,10,1,"Alpha=1.0","TRUE","bubbles","TRUE",0.1111111111

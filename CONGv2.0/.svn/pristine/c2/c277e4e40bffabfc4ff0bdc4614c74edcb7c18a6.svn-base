@@ -1,0 +1,11 @@
+"period","paid","length","percentChangePerSecond","subperiods","numGroups","excludeSelf","payoffFunction","name","Rr","Rp","Rs","Pr","Pp","Ps","Sr","Sp","Ss","min","max","selector","showHeatmapLegend","mixed"
+1,FALSE,100,"NaN",20,1,FALSE,"matrix3x3","s1_med",18,12,96,60,18,12,12,96,18,12,96,"simplex",TRUE,FALSE
+2,TRUE,100,"NaN",20,1,FALSE,"matrix3x3","s3i",36,24,66,96,36,30,24,96,36,24,96,"simplex",TRUE,FALSE
+3,TRUE,100,"NaN",20,1,FALSE,"matrix3x3","s3i",36,24,66,96,36,30,24,96,36,24,96,"simplex",TRUE,FALSE
+4,TRUE,100,"NaN",20,1,FALSE,"matrix3x3","s3i",36,24,66,96,36,30,24,96,36,24,96,"simplex",TRUE,TRUE
+5,TRUE,100,"NaN",20,1,FALSE,"matrix3x3","s3i",36,24,66,96,36,30,24,96,36,24,96,"simplex",TRUE,TRUE
+6,TRUE,100,"NaN",20,1,FALSE,"matrix3x3","s1_med",18,12,96,60,18,12,12,96,18,12,96,"simplex",TRUE,TRUE
+7,TRUE,100,"NaN",20,1,FALSE,"matrix3x3","s3i",36,24,66,96,36,30,24,96,36,24,96,"simplex",TRUE,TRUE
+8,TRUE,100,"NaN",20,1,FALSE,"matrix3x3","s3i",36,24,66,96,36,30,24,96,36,24,96,"simplex",TRUE,TRUE
+9,TRUE,100,"NaN",20,1,FALSE,"matrix3x3","s3i",36,24,66,96,36,30,24,96,36,24,96,"simplex",TRUE,TRUE
+10,TRUE,100,"NaN",20,1,FALSE,"matrix3x3","s3i",36,24,66,96,36,30,24,96,36,24,96,"simplex",TRUE,TRUE

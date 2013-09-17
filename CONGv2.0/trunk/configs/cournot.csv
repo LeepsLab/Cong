@@ -1,0 +1,7 @@
+"period","paid","length","subperiods","percentChangePerSecond","groupSize","payoffFunction","name","type","A","B","C","D","smin","smax","min","max","selector","potential","trajectory"
+1,"TRUE",120,0,0.1,4,"sum","pf1","linear",120,10,0,60,3,6,0,275,"bubbles","TRUE","FALSE"
+2,"TRUE",120,0,0.1,4,"sum","pf1","linear",120,10,0,60,3,6,0,275,"bubbles","TRUE","FALSE"
+3,"TRUE",120,24,"NaN",4,"sum","pf1","linear",120,10,0,60,3,6,0,275,"bubbles","TRUE","FALSE"
+4,"TRUE",120,24,"NaN",4,"sum","pf1","linear",120,10,0,60,3,6,0,275,"bubbles","TRUE","TRUE"
+5,"TRUE",120,0,0.1,4,"sum","pf1","linear",120,10,0,60,3,6,0,275,"bubbles","TRUE","TRUE"
+6,"TRUE",120,0,0.1,4,"sum","pf1","linear",120,10,0,60,3,6,0,275,"bubbles","TRUE","TRUE"

@@ -1,0 +1,2 @@
+"period","paid","length","subperiods","percentChangePerSecond","groupSize","matchType","payoffFunction","type","name","A","B","smin","smax","min","max","mixed","selector","objectiveColors","chatroom","freeChat","initial","showSMinMax","showPGMultiplier","potential"
+1,"TRUE",300,10,"NaN",3,"self","sum","public_goods","pf",25,0.2,0,25,0,60,"TRUE","bubbles","TRUE","TRUE","TRUE",0,"TRUE","TRUE",TRUE

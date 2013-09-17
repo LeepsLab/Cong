@@ -1,0 +1,7 @@
+"period","paid","length","subperiods","groupSize","initial","payoffFunction","name","platform1","platform2","cost1","cost2","initialDelay","distribution","lambda","delay","distribution","lambda","selector"
+1,"TRUE",120,"0",2,0,"qwerty","qwerty","{{0,6,6},{0,10,7},{0,13,12}}","{{0,3,3},{0,9,6},{0,12,11}}",1.2,1,,,,,,,"qwerty"
+2,"TRUE",120,"0",2,0,"qwerty","qwerty","{{0,6,6},{0,10,7},{0,13,12}}","{{0,3,3},{0,9,6},{0,12,11}}",1.2,1,"decisionDelay","poisson",10,,,,"qwerty"
+3,"TRUE",120,"0",2,0,"qwerty","qwerty","{{0,6,6},{0,10,7},{0,13,12}}","{{0,3,3},{0,9,6},{0,12,11}}",1.2,1,"decisionDelay","poisson",10,"decisionDelay","poisson",6,"qwerty"
+4,"TRUE",120,"0",2,0,"qwerty","qwerty","{{0,6,6},{0,10,7},{0,13,12}}","{{0,3,3},{0,9,6},{0,12,11}}",0,0,,,,,,,"qwerty"
+5,"TRUE",120,"0",2,0,"qwerty","qwerty","{{0,6,6},{0,10,7},{0,13,12}}","{{0,3,3},{0,9,6},{0,12,11}}",0.5,1,"decisionDelay","poisson",10,,,,"qwerty"
+6,"TRUE",120,"0",2,0,"qwerty","qwerty","{{0,6,6},{0,10,7},{0,13,12}}","{{0,3,3},{0,9,6},{0,12,11}}",0,1,"decisionDelay","poisson",10,"decisionDelay","poisson",6,"qwerty"

@@ -1,0 +1,8 @@
+period,paid,length,subperiods,percentChangePerSecond,groupSize,mixed,selector,initial0,initial1,payoffFunction,name,type,A,C,smin,smax,numStrategies,min,max,inString,outString,showSMinMax,contributionsString,showPGMultiplier
+1,TRUE,60,0,NaN,4,TRUE,bubbles,0,0,sum,a,public_goods,1.2,-10,0,100,2,0,400,IN,OUT,TRUE,Total Contributions,TRUE
+2,TRUE,60,0,NaN,4,TRUE,bubbles,0,0,sum,a,public_goods,1.2,-10,0,100,2,0,400,IN,OUT,TRUE,Total Contributions,TRUE
+3,TRUE,60,0,NaN,4,TRUE,bubbles,0,0,sum,a,public_goods,1.2,-10,0,100,2,0,400,IN,OUT,TRUE,Total Contributions,TRUE
+4,TRUE,60,0,NaN,4,TRUE,bubbles,0,0,sum,a,public_goods,1.2,-10,0,100,2,0,400,IN,OUT,TRUE,Total Contributions,TRUE
+5,TRUE,60,0,NaN,4,TRUE,bubbles,0,0,sum,a,public_goods,1.2,-10,0,100,2,0,400,IN,OUT,TRUE,Total Contributions,TRUE
+6,TRUE,60,0,NaN,4,TRUE,bubbles,0,0,sum,a,public_goods,1.2,-10,0,100,2,0,400,IN,OUT,TRUE,Total Contributions,TRUE
+7,TRUE,60,0,NaN,4,TRUE,bubbles,0,0,sum,a,public_goods,1.2,-10,0,100,2,0,400,IN,OUT,TRUE,Total Contributions,TRUE

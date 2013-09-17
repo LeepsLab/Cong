@@ -1,0 +1,15 @@
+"period","timeConstrained","paid","length","subperiods","percentChangePerSecond","groupSize","assignedGroups","payoffFunction","name","Aa","Ab","Ba","Bb","min","max","counterpartPayoffFunction","name","Aa","Ab","Ba","Bb","min","max","isCounterpart","strategySelectionDisplayType","mixedStrategySelection","sigmoidHeatmap"
+1,"TRUE","TRUE",30,0,0.1,1,"TRUE","bimatrix","pfA",34,15,15,16,6,34,"bimatrix","cpfA",6,25,25,24,6,34,"TRUE","HeatmapBoth","TRUE","TRUE"
+2,"TRUE","TRUE",30,0,0.1,1,"TRUE","bimatrix","pfB",38,5,5,32,5,38,"bimatrix","cpfB",2,35,35,8,5,38,"TRUE","HeatmapBoth","TRUE","TRUE"
+3,"TRUE","TRUE",30,0,0.33,1,"TRUE","bimatrix","pfA",34,15,15,16,6,34,"bimatrix","cpfA",6,25,25,24,6,34,"TRUE","HeatmapBoth","TRUE","TRUE"
+4,"TRUE","TRUE",30,0,0.33,1,"TRUE","bimatrix","pfB",38,5,5,32,5,38,"bimatrix","cpfB",2,35,35,8,5,38,"TRUE","HeatmapBoth","TRUE","TRUE"
+"SUBJECTS",,,,,,,,,,,,,,,,,,,,,,,,,,,
+"period","subject","population","match",,,,,,,,,,,,,,,,,,,,,,,,
+1,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+1,2,2,1,,,,,,,,,,,,,,,,,,,,,,,,
+2,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+2,2,2,1,,,,,,,,,,,,,,,,,,,,,,,,
+3,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+3,2,2,1,,,,,,,,,,,,,,,,,,,,,,,,
+4,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,
+4,2,2,1,,,,,,,,,,,,,,,,,,,,,,,,

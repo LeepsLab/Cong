@@ -1,0 +1,5 @@
+"period","paid","length","subperiods","percentChangePerSecond","groupSize","payoffFunction","source","min","max","strategies","params","mixed"
+1,"TRUE",60,0,0.1,2,"script","BimatrixScripted.java",0,10,1,,"TRUE"
+2,"TRUE",60,0,0.1,2,"script","BimatrixScripted.java",0,10,1,,"TRUE"
+3,"TRUE",60,0,"NaN",2,"script","BimatrixScripted.java",0,10,1,,"TRUE"
+4,"TRUE",60,0,"NaN",2,"script","BimatrixScripted.java",0,10,1,,"TRUE"

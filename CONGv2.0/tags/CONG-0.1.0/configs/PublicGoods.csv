@@ -1,0 +1,7 @@
+period,paid,length,subperiods,groupSize,matchType,payoffFunction,type,name,A,smin,smax,min,max,mixed,selector,objectiveColors,chatroom,freeChat,initial,showSMinMax,showPGMultiplier,potential
+1,TRUE,300,0,3,self,sum,public_goods,pf,1.2,0,25,0,60,TRUE,bubbles,TRUE,FALSE,FALSE,0,TRUE,TRUE,FALSE
+2,TRUE,300,10,3,self,sum,public_goods,pf,1.2,0,25,0,60,TRUE,bubbles,TRUE,FALSE,FALSE,0,TRUE,TRUE,FALSE
+3,TRUE,300,0,3,self,sum,public_goods,pf,1.2,0,25,0,60,TRUE,bubbles,TRUE,FALSE,FALSE,0,TRUE,TRUE,FALSE
+4,TRUE,300,0,3,self,sum,public_goods,pf,1.2,0,25,0,60,TRUE,bubbles,TRUE,TRUE,FALSE,0,TRUE,TRUE,FALSE
+5,TRUE,300,0,3,self,sum,public_goods,pf,1.2,0,25,0,60,TRUE,bubbles,TRUE,TRUE,TRUE,0,TRUE,TRUE,FALSE
+6,TRUE,300,0,3,self,sum,public_goods,pf,1.2,0,25,0,60,TRUE,bubbles,TRUE,FALSE,FALSE,0,TRUE,TRUE,TRUE
